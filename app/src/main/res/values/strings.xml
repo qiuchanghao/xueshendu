@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">xueshenduan</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="link_text_m"><a href="http://www.baidu.com">关于我们</a>  </string>
+</resources>

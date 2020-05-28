@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="text_notifications" type="id" />
+    <item name="nav_view" type="id" />
+    <item name="nav_host_fragment" type="id" />
+    <item name="action_settings" type="id" />
+    <item name="login_button1" type="id" />
+</resources>

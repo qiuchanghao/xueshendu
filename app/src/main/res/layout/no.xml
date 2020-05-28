@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+    <RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:tools="http://schemas.android.com/tools"
+        android:id="@+id/LinearLayout1"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        >
+        <TextView
+            android:id="@+id/no"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="账号或密码错误 !  请点击返回键返回上一页面重新验证 !  (账号名为你的姓名拼音小写缩写 密码为你的8位生日数字)  如仍无法登陆 请联系管理员hfeng"
+            />
+
+        <ImageView
+
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/no"
+
+            android:src="@drawable/ic_bj" />
+
+    </RelativeLayout>
